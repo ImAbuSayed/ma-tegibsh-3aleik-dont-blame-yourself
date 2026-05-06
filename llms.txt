@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-tegibsh-3aleik-dont-blame-yourself/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Ma Tegibsh 3aleik – Don't Blame Yourself](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
