@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma Tegibsh 3aleik – Don't Blame Yourself
+
+This log tracks the cryptographic history and versioning for the song **Ma Tegibsh 3aleik – Don't Blame Yourself** (ma-tegibsh-3aleik-dont-blame-yourself).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:32:48.703414 | `v1` | `8a3cb734024889bd4440079db43000bcb68270be2116939a39d93086d3f4a932` | `45229c2a02d281d2f13bbcbd4cee46813a16c169da26a4661f7480d10f0f982d` | `2026-05-09_ma-tegibsh-3aleik-dont-blame-yourself-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
